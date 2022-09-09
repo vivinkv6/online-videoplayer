@@ -51,7 +51,7 @@ function App() {
               className="d-inline-block align-top "
               style={{ borderRadius: '50px' }}
             />
-            <h2 style={{ fontWeight: '700', display: 'inline', position: 'fixed', top: '20px', marginLeft: '10px' }}>VideoPlayer</h2>
+            <h2 style={{ fontWeight: '700', display: 'inline', marginLeft: '10px' }}>VideoPlayer</h2>
           </Navbar.Brand>
         </Container>
       </Navbar>
