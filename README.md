@@ -2,6 +2,12 @@
 
 <a href="https://online-videoplayer.netlify.app/">https://online-videoplayer.netlify.app/</a>
 
+## Technologies and their Versions
+
+React : "^18.2.0"<br>
+ReactBootstrap : "^2.5.0"<br>
+qrcode.react : "^3.1.0"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
